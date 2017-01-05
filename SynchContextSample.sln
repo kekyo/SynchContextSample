@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchContextSample", "SynchContextSample\SynchContextSample.csproj", "{6308A770-EEB4-4735-92E2-62B5D42E9548}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F9C1FAD8-6EEA-4C05-B7F6-3C610EC4F55F}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6308A770-EEB4-4735-92E2-62B5D42E9548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6308A770-EEB4-4735-92E2-62B5D42E9548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6308A770-EEB4-4735-92E2-62B5D42E9548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6308A770-EEB4-4735-92E2-62B5D42E9548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
